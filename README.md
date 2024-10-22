@@ -13,6 +13,16 @@ Would you accept two errors? Explain.
 
 ---------------------------------
 
+## Task 2: Numpy's Normal Distribution
+
+In this task you will assess whether numpy.random.normal() properly generates normal values. To begin, generate a sample of one hundred thousand values using the function with mean 10.0 and standard deviation 3.0.
+
+Use the scipy.stats.shapiro() function to test whether your sample came from a normal distribution. Explain the results and output.
+
+Plot a histogram of your values and plot the corresponding normal distribution probability density function on top of it.
+
+------------------------------
+
 # Project
 
 # PlantGrowth Dataset
