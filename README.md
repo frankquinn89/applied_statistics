@@ -86,5 +86,4 @@ To execute the code for these tasks, you will need the following Python librarie
 - `matplotlib`
 - `pandas`
 
-These libraries can be installed using the following command:
 
