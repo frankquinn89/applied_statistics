@@ -1,4 +1,4 @@
-# Statistical Tasks and PlantGrowth Dataset Project README
+# Applied Statistics
 
 This repository contains solutions for a series of statistical problems and a project involving the **PlantGrowth dataset**. The tasks cover topics such as permutations and combinations, normal distribution analysis, t-tests, and ANOVA. Additionally, the repository includes a project focusing on data analysis and statistical testing with the **PlantGrowth dataset**.
 
@@ -52,9 +52,6 @@ In this project, we will perform **t-tests** and **ANOVA** on the **PlantGrowth 
 2. **Describe the Dataset**:
    - The dataset contains information about the growth of plants under three different treatment groups: `ctrl` (control), `trt1` (treatment 1), and `trt2` (treatment 2).
    - It includes two columns: `weight` (the growth measurement of the plant) and `group` (the treatment group assigned to the plant).
-   
-   A sample of the dataset might look like this:
-
 
 
    
